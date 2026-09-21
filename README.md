@@ -40,8 +40,8 @@
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
 | **Intellara AI** | SaaS platform of AI-powered web tools — resume builder, PDF converter, and more | React, TypeScript, Vite, AI APIs | [intellara.me](https://intellara.me) |
-| **ResumeCraft AI** | Freemium SaaS resume builder with AI-assisted content generation | React, TypeScript, Vite, Gemini API | Demo |
-| **PureShine Cleaners** | Full business website built end-to-end for a freelance client | React, Vite, TypeScript, Tailwind CSS | Demo |
+| **ResumeCraft AI** | Freemium SaaS resume builder with AI-assisted content generation | React, TypeScript, Vite, Gemini API | [Source](https://github.com/Usama670/REPLACE-WITH-REPO-NAME) |
+| **PureShine Cleaners** | Full business website built end-to-end for a freelance client | React, Vite, TypeScript, Tailwind CSS | [Source](https://github.com/Usama670/REPLACE-WITH-REPO-NAME) |
 | **StreamVault** | Netflix-style UI clone with carousels and search | HTML, JS, Tailwind | [Demo](https://usama670.github.io/Netflixclone) |
 
 ---
@@ -49,11 +49,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Usama670&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Usama670&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usama670&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usama670&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
